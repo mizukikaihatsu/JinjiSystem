@@ -2,7 +2,7 @@
 // データベース接続
 function db_open(): PDO{
     $user = 'mizuki';
-    $password = 'pwd';
+    $password = 'k>eadlypA99p';
     $opt = [
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
         PDO::ATTR_EMULATE_PREPARES => false,
