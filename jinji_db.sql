@@ -14,7 +14,7 @@ CREATE DATABASE jinji_db;
 USE jinji_db;
 
 
-CREATE USER 'mizuki'@'localhost' IDENTIFIED BY 'pwd';
+CREATE USER 'mizuki'@'localhost' IDENTIFIED BY 'k>eadlypA99p';
 GRANT ALL PRIVILEGES ON * . * TO 'mizuki'@'localhost';
 
 
